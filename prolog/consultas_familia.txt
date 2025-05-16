@@ -1,0 +1,26 @@
+¿Quienes son los padres de Beatriz?
+
+padres(beatriz, P, M)
+
+P = mario
+M = alicia
+
+¿Eduardo es hijo de mario?
+
+¿Luis es hijo de veronica?
+
+¿De quien es hija beatriz?
+
+¿Eduardo y alicia son hermanos?
+
+
+
+¿Eduardo es abuelo?
+
+¿De quien es nieto luis?
+
+¿Francisco es abuelo de Beatriz?
+
+
+
+

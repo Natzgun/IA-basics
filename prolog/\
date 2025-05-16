@@ -1,0 +1,5 @@
+
+# perro(vicente).
+ladra.
+tiene4Patas.
+isDog(vicente) :- tienePatas, ladra.
